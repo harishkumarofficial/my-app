@@ -6,10 +6,10 @@ const NewPost =() => {
   const { handleSubmit, postTitle, setPostTitle, postBody, setPostBody } = useContext(DataContext)
     return (
       <main className="NewPost"> 
-          <h2>New Post</h2>
+          <h2>Create New Blog</h2>
           <form className="newPostForm" onSubmit={handleSubmit}>
               
-              <label htmlFor="postTitle">Title:</label>
+              <label htmlFor="postTitle">Blog Title</label>
               <input
               id="postTitle" 
               type="text" 
@@ -18,7 +18,7 @@ const NewPost =() => {
               onChange={(e) => setPostTitle(e.target.value)}
               />
               
-              <label htmlFor="postBody"></label>
+              <label htmlFor="postBody">Blog Content</label>
               <textarea 
               id="postBody" 
               required
