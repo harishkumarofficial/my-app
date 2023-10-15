@@ -17,7 +17,7 @@ function App() {
     <div className="App">
 
       <DataProvider>
-        <Header title="facebook" />
+        <Header title="Medium" />
         <Nav />
         <Routes>
           <Route path="/" element = {<Home/>} />

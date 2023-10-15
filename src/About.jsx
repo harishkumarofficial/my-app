@@ -67,16 +67,6 @@ const About = () => {
       </section>
 
       <section style={sectionStyle}>
-        <h2 style={headingStyle}>Our Commitment:</h2>
-        <p>
-          At Medium, we are dedicated to providing you with an exceptional blogging platform that combines innovation and functionality. Our team is constantly exploring new technologies and methodologies to enhance your experience.
-        </p>
-        <p>
-          We value your feedback and encourage you to reach out to us with any inquiries, suggestions, or support needs.
-        </p>
-      </section>
-
-      <section style={sectionStyle}>
         <h2 style={headingStyle}>Contact Us:</h2>
         <p>Email: <a href="mailto:harishkumar.a009@gmail.com">harishkumar.a009@gmail.com</a></p>
         <p>Support: <a href="https://www.buymeacoffee.com/yourusername">Buy me a ☕️</a></p>
