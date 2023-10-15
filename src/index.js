@@ -24,6 +24,6 @@ root.render(
    *** useState and useEffect combination
    *** npm i react-icons
    *** Axios fetch webhook
-   *** custom hooks 
+   ***  
    *** context_API & useContext Hook(This features coming React V6 only -> more readability ) instead of using prop trilling
 */
