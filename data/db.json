@@ -2,9 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "Happy Morning!!",
-      "datetime": "Oct 14, 202310:25:59 AM",
-      "body": "Everything Will Be Fine Say always Positive."
+      "title": "Embracing Change: A Journey to Success",
+      "datetime": "Oct 15, 2023 12:55:38 PM",
+      "body": "In the face of change, we find our true direction. Embrace it, for it is the path to growth and success. Every sunrise brings new opportunities. Seize them with unwavering determination and watch your dreams unfold."
+    },
+    {
+      "id": 2,
+      "title": "The Power of Resilience",
+      "datetime": "Oct 16, 2023 10:30:22 AM",
+      "body": "Resilience is not about avoiding adversity, but about facing it head-on and emerging stronger. It's the fuel that propels us forward, even when the path seems insurmountable. Remember, you are capable of achieving greatness, one step at a time."
+    },
+    {
+      "id": 3,
+      "title": "Unleashing Your Creative Potential",
+      "datetime": "Oct 17, 2023 02:45:15 PM",
+      "body": "Creativity knows no bounds. It resides within each of us, waiting to be unleashed. Trust in your ideas, for they have the power to change the world. Believe in yourself, and let your imagination soar to new heights."
+    },
+    {
+      "id": 4,
+      "title": "The Art of Setting Goals",
+      "datetime": "Oct 18, 2023 09:15:00 AM",
+      "body": "Goals provide the roadmap to our aspirations. Set them wisely, and let them be your guiding light. With a clear vision and unwavering dedication, you have the power to turn dreams into reality. Remember, the journey is as important as the destination."
+    },
+    {
+      "id": 5,
+      "title": "Embracing Gratitude: A Path to Fulfillment",
+      "datetime": "Oct 15, 20231:24:37 PM",
+      "body": "In moments of gratitude, we find true joy and fulfillment. Cherish the present, for it is a gift. Embrace each experience, for it shapes your journey. Remember, a heart full of gratitude can achieve wonders.a"
     }
   ]
 }
